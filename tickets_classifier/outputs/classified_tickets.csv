@@ -1,0 +1,9 @@
+ticket_id,text,category,priority
+TKT-1000,My laptop screen is cracked and not displaying pro...,Hardware,High
+TKT-1001,I cannot login to my account. My password reset em...,Access,Critical
+TKT-1002,Please purchase 5 licenses of Microsoft Office for...,Access,Critical
+TKT-1003,I need access to the shared drive folder for the m...,Storage,High
+TKT-1004,My computer is running very slowly and keeps freez...,Hardware,High
+TKT-1005,I need to request leave for next week and update m...,HR Support,Medium
+TKT-1006,Please set up administrative rights for my account...,Access,Critical
+TKT-1007,The server room temperature is too high and the co...,Hardware,High
